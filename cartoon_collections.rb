@@ -7,8 +7,6 @@ end
 
 def long_planeteer_calls(array)
   array.any? {|calls| calls > 4}
-  # code an argument here
-  # Your code here
 end
 
 def find_the_cheese# code an argument here
