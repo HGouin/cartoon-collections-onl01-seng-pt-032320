@@ -1,8 +1,4 @@
 def roll_call_dwarves(dwarves)
-  i = 0
-  while i < dwarves.length
-    puts "#{index}. #{dwarves}"
-    i += 1
   end
 end
 
