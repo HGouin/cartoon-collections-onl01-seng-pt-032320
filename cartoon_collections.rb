@@ -17,3 +17,4 @@ cheese_types = ["cheddar", "gouda", "camembert"]
 if array.include?(cheese_types)
   return cheese_types[0]
 end
+end
