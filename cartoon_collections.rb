@@ -1,7 +1,7 @@
 def roll_call_dwarves(dwarves)
 end
 
-def summon_captain_planet(planeteer_calls)# code an argument here
+def summon_captain_planet(planeteer_calls)
   planeteer_calls.collect {|items| items.capitalize + "!"}
 end
 
